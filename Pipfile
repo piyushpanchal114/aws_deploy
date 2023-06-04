@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 django = "*"
-decouple = "*"
 psycopg2 = "*"
+python-decouple = "*"
 
 [dev-packages]
 
